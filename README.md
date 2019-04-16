@@ -1,9 +1,9 @@
 # FreeThrow
-# 3. Git Convention
+# Git Convention
 
-## 3.1. Commit
+## 1. Commit
 
-### 3.1.1 Commit Type
+### 1.1 Commit Type
 
 + Type
   + 코드에 관련된 Type
@@ -49,7 +49,7 @@
 
 
 
-### 3.1.2. 이슈관리 대장 등록
+### 1.2 이슈관리 대장 등록
 
 + 제목 : 첫 번째는 Type으로 구분
 
